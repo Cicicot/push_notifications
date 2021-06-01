@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "901937411672",
+    "project_id": "notifications-fbee7",
+    "storage_bucket": "notifications-fbee7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901937411672:android:717e7feb1522cb4881fc2d",
+        "android_client_info": {
+          "package_name": "com.josecochine.push_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901937411672-3h5m1581bouk0kae8iqc5v2pkvkr9u3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.josecochine.push_notifications",
+            "certificate_hash": "01d71bf10a8a27d78b68888e69194369b89fae29"
+          }
+        },
+        {
+          "client_id": "901937411672-brcnmnb55t274sej7qai6dapddv10eme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY1aRJaEmXPLNEKMXH-8_CkpFgbuXrvvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901937411672-brcnmnb55t274sej7qai6dapddv10eme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
