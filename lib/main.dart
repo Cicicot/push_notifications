@@ -9,7 +9,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await PushNotificationServices.initializeApp();
 
-  runApp(MyApp());
+  runApp(MyApp()); //
 
 }
  
